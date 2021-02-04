@@ -12,7 +12,7 @@ public class custom_order {
     // TEST CODE
     
     // STEP 2 CREATE A SCANNER OBEJCT, DECLARE VARAIBLES, & PRINT STATEMENTS
-  Scanner keyboard = new Scanner (System.in); 
+  Scanner keyboard=new Scanner (System.in); 
   String firstName; // User's first name
   String itemOrder; // Item ordered
   String frostingType; // Frosting ordered
